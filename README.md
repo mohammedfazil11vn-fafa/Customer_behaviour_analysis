@@ -1,4 +1,5 @@
 🛍️ Customer Shopping Behavior Analysis — Data Analytics Project
+
 📌 Overview
 
 This project analyzes customer shopping behavior using an end-to-end data analytics workflow. It includes data exploration with Python, SQL-based analysis using PostgreSQL, interactive dashboard creation in Power BI, and professional reporting and presentation. The objective is to uncover customer trends and provide actionable business insights.
